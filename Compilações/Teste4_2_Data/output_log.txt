@@ -1,0 +1,49 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Teste4_2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.969698 ms
+Clicou LevelSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou Select1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.059563 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 609.
+Total: 0.695338 ms (FindLiveObjects: 0.081251 ms CreateObjectMapping: 0.035493 ms MarkObjects: 0.570896 ms  DeleteObjects: 0.006414 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3154 -> priority: 1 

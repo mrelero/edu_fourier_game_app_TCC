@@ -1,0 +1,127 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.247 seconds
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UEL\2016\TCC\Projeto - Unity 3D\Fourier\TCC_1\Validação\TCC_Aula_25_11_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.396231 ms
+Clicou LevelSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou Select1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou 1_1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.257490 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.493919 ms (FindLiveObjects: 0.045329 ms CreateObjectMapping: 0.017105 ms MarkObjects: 0.425925 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.490739 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.492209 ms (FindLiveObjects: 0.039342 ms CreateObjectMapping: 0.018388 ms MarkObjects: 0.428063 ms  DeleteObjects: 0.005986 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.535827 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.639743 ms (FindLiveObjects: 0.058586 ms CreateObjectMapping: 0.026085 ms MarkObjects: 0.548229 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.673526 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 498.
+Total: 0.836028 ms (FindLiveObjects: 0.112895 ms CreateObjectMapping: 0.035066 ms MarkObjects: 0.668395 ms  DeleteObjects: 0.018815 ms)
+
+Clicou LevelSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou Select1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.821488 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.515729 ms (FindLiveObjects: 0.063290 ms CreateObjectMapping: 0.017533 ms MarkObjects: 0.428918 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.513163 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 596.
+Total: 0.515301 ms (FindLiveObjects: 0.051743 ms CreateObjectMapping: 0.020098 ms MarkObjects: 0.432340 ms  DeleteObjects: 0.009835 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.688066 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 712.
+Total: 0.544380 ms (FindLiveObjects: 0.032500 ms CreateObjectMapping: 0.027796 ms MarkObjects: 0.475103 ms  DeleteObjects: 0.008552 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629480 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 616.
+Total: 0.458425 ms (FindLiveObjects: 0.026941 ms CreateObjectMapping: 0.023519 ms MarkObjects: 0.399412 ms  DeleteObjects: 0.008125 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658131 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 498.
+Total: 0.616223 ms (FindLiveObjects: 0.127435 ms CreateObjectMapping: 0.038487 ms MarkObjects: 0.428063 ms  DeleteObjects: 0.018815 ms)
+
+Clicou LevelSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou Select1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clicou 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546518 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 616.
+Total: 0.462702 ms (FindLiveObjects: 0.030362 ms CreateObjectMapping: 0.026513 ms MarkObjects: 0.399839 ms  DeleteObjects: 0.004703 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 904 -> priority: 1 

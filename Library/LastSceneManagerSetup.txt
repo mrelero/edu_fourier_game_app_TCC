@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/16.unity
+  isLoaded: 1
+  isActive: 1
